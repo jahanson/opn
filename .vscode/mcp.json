@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "time": {
+      "command": "mcp-server-time",
+      "args": ["--local-timezone=America/Chicago"]
+    }
+  }
+}
